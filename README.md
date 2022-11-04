@@ -1,5 +1,4 @@
 # HelloWorld
-The Origin: First Program that i learn
+The Origin: First Program that i learn in C# Visual Studio
 
-#Note:
-This is for Educational Purpose Only.
+Note: This is for Educational Purpose Only.
